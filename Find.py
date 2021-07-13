@@ -9,7 +9,7 @@ print("""
 ██║░░░░░██║██║░╚███║██████╔╝██████╔╝██║░╚═╝░██║
 ╚═╝░░░░░╚═╝╚═╝░░╚══╝╚═════╝░╚═════╝░╚═╝░░░░░╚═╝""")
 print("\n\n\n")
-print("Developed By: ")
+print("Developed By: TipToed")
 def names_installed():
     try:
         import names
